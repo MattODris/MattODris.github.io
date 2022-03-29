@@ -1,0 +1,85 @@
+.cover{
+    font-family: cursive;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: large;
+    margin-top: 4%;
+    text-decoration:underline;
+    font-weight:bold;
+    text-shadow: 1px 1px 2px;
+}
+
+.resume{
+    background-color: black;
+}
+
+.heading1{
+    font-family: cursive;
+    color: white;
+    text-align: center;
+    font-size:500%;
+    margin-top: 4%;
+    text-decoration:underline;
+    font-weight:bold;
+    text-shadow: 1px 1px 2px;
+}
+
+.heading2{
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    font-size:150%;
+    margin-top: 4%;
+}
+
+.info1{
+    font-family:monospace;
+    color: white;
+    text-align: center;
+    font-size:75%;
+    margin-top: 4%;
+}
+
+.info2{
+    font-family:monospace;
+    color: white;
+    text-align: center;
+    font-size:115%;
+    margin-top: 4%;
+}
+
+.extra1{
+    font-family:fantasy;
+    color: white;
+    text-align: center;
+    font-size:115%;
+    margin-top: 4%; 
+}
+
+.social{
+    text-align: center;
+    margin-bottom: 4%;
+}
+
+#top{
+    text-decoration: underline;
+}
+#bottom{
+    color: white;
+}
+
+.paragraph{
+    text-align: center;
+    margin-bottom: 4%;
+    color: white;
+    font-size:115%;
+}
+
+.image{
+    border-radius: 50%;
+    margin-top: 8%;
+    
+
+
+}
